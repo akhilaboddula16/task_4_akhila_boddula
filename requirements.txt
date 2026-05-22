@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-core
+groq
+moviepy
+openai-whisper
+torch
