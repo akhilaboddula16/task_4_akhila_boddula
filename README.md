@@ -539,7 +539,7 @@ Recommended:
 Add your deployed Streamlit link:
 
 ```text
-https://your-streamlit-app.streamlit.app
+https://akhilaboddula16-task-4-akhila-boddula-frontendapp-e3q6pt.streamlit.app/
 ```
 
 ---
