@@ -556,4 +556,4 @@ https://github.com/akhilaboddula16
 
 LinkedIn:
 
-https://www.linkedin.com/in/akhila-boddula-5467702b5
+https://www.linkedin.com/in/akhila-boddula
